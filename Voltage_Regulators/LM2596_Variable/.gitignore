@@ -26,7 +26,7 @@ _autosave-*
 *.dsn
 *.ses
 
-CH340_USB-backups/
+LM2596_Variable-backups/
 
 # SolidWorks temporary owner files
 ~$*
